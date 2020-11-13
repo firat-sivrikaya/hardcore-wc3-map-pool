@@ -1,0 +1,1 @@
+# hardcore-wc3-map-pool
