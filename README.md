@@ -1,1 +1,2 @@
-# hardcore-wc3-map-pool
+# WC3 Map Pool
+
